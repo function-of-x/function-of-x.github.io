@@ -1,11 +1,25 @@
 {
-  "main.css": "static/css/main.44203f8d.css",
-  "main.css.map": "static/css/main.44203f8d.css.map",
-  "main.js": "static/js/main.7001094b.js",
-  "main.js.map": "static/js/main.7001094b.js.map",
-  "static/media/hsbc.png": "static/media/hsbc.b7a0cc16.png",
-  "static/media/logo.png": "static/media/logo.b9af9e05.png",
-  "static/media/phdv.png": "static/media/phdv.9d7e2b2d.png",
-  "static/media/tesco.png": "static/media/tesco.1f01b6f9.png",
-  "static/media/vodafone.png": "static/media/vodafone.44ab407c.png"
+  "files": {
+    "main.css": "/static/css/main.e7ab48d8.chunk.css",
+    "main.js": "/static/js/main.8a817914.chunk.js",
+    "main.js.map": "/static/js/main.8a817914.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.900dd88b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.900dd88b.js.map",
+    "static/js/2.f0402959.chunk.js": "/static/js/2.f0402959.chunk.js",
+    "static/js/2.f0402959.chunk.js.map": "/static/js/2.f0402959.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e7ab48d8.chunk.css.map": "/static/css/main.e7ab48d8.chunk.css.map",
+    "static/js/2.f0402959.chunk.js.LICENSE.txt": "/static/js/2.f0402959.chunk.js.LICENSE.txt",
+    "static/media/hsbc.517e0d64.png": "/static/media/hsbc.517e0d64.png",
+    "static/media/logo.d6f8466f.png": "/static/media/logo.d6f8466f.png",
+    "static/media/phdv.f24d14ee.png": "/static/media/phdv.f24d14ee.png",
+    "static/media/tesco.9c8ac894.png": "/static/media/tesco.9c8ac894.png",
+    "static/media/vodafone.1ae4cebe.png": "/static/media/vodafone.1ae4cebe.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.900dd88b.js",
+    "static/js/2.f0402959.chunk.js",
+    "static/css/main.e7ab48d8.chunk.css",
+    "static/js/main.8a817914.chunk.js"
+  ]
 }
